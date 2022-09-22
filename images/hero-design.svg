@@ -1,0 +1,18 @@
+<svg width="636" height="600" viewBox="0 0 636 600">
+  <g id="Group_3" data-name="Group 3" transform="translate(-966 -204)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="161" height="150" rx="35" transform="translate(1288 204)" fill="#7238e6"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="161" height="150" rx="35" transform="translate(1441 354)" fill="rgba(114,56,230,0.59)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="161" height="150" rx="35" transform="translate(1288 504)" fill="#7238e6"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="161" height="150" rx="35" transform="translate(966 504)" fill="rgba(140,92,238,0.95)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="161" height="150" rx="35" transform="translate(1127 354)" fill="#fff"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="161" height="150" rx="35" transform="translate(1129 654)" fill="#fff"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1294 361)" fill="#ee6bf8" stroke="#707070" stroke-width="1">
+      <ellipse cx="70.5" cy="68.5" rx="70.5" ry="68.5" stroke="none"/>
+      <ellipse cx="70.5" cy="68.5" rx="70" ry="68" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1137 511)" fill="#46fbd6" stroke="#707070" stroke-width="1">
+      <ellipse cx="70.5" cy="68.5" rx="70.5" ry="68.5" stroke="none"/>
+      <ellipse cx="70.5" cy="68.5" rx="70" ry="68" fill="none"/>
+    </g>
+  </g>
+</svg>
